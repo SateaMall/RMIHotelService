@@ -1,6 +1,6 @@
 # RMIHotelService
-Implimentations des hotels et des agences en JAVA
+Implimentations des hotels et des agences en JAVA en utilisant RMI.
 
 UML:
 
-![Home Page](./Images/UML.png)
+![Home Page](./UML.png)
