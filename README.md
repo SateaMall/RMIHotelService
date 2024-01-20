@@ -1,5 +1,5 @@
 # RMIHotelService
-Implimentations des hotels et des agences en JAVA en utilisant RMI.
+Implimentations d'une vétérinaire en JAVA en utilisant RMI.
 
 UML:
 
